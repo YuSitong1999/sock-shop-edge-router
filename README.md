@@ -1,1 +1,1 @@
-# edge-router
+# DEPRECATED: edge-router
